@@ -224,4 +224,4 @@ TV next focus up (see documentation for the View component).
 
 | Type   | Required | Platform |
 | ------ | -------- | -------- |
-| number | No       | Android  |
+| number | No       | And  |
